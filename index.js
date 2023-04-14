@@ -6,7 +6,7 @@ function addUp(a, b) {
 
 console.log(addUp(12, 2));
 
-// Write a javascript function that counts the words of the article only (not the comments) and updates DataLayer.article_data.word_count accordingly.
+// Write  a javascript function that counts the words of the article only (not the comments) and updates DataLayer.article_data.word_count accordingly.
 function wordCount() {
   // Get the article element
   const articleElement = document.getElementById("articleText");
