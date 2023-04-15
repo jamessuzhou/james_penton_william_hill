@@ -1,4 +1,4 @@
-# james_penton_william_hill
+# james_penton_william_reed
 
 Q: Understand why DataLayer.journey_data.is_mobile isn’t working and fix as appropriate.
 
